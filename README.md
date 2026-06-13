@@ -1,3 +1,4 @@
+
 # Margadarshak AI
 
 Margadarshak AI is an intelligent internship platform designed to connect students with opportunities that match their skills and interests using machine learning.
@@ -67,3 +68,5 @@ The ML service runs on `http://localhost:8000`.
 - **Admin Dashboard:** Post and manage internships.
 - **Smart Recommendations:** Powered by SBERT embeddings to match students with relevant roles.
 [https://margadarshak-ai.vercel.app]([url](https://margadarshak-ai.vercel.app))
+=======
+
